@@ -1,0 +1,19 @@
+{
+  "name": "npm_exmple",
+  "version": "1.0.0",
+  "description": "JSpro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test",
+    "js"
+  ],
+  "author": "Margo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
